@@ -10,14 +10,14 @@ import { versionDescription } from './resources/version';
 
 export class Readme implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'readme',
+		displayName: 'Readme',
 		name: 'N8nDevReadme',
 		icon: { light: 'file:./readme.svg', dark: 'file:./readme.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Create beautiful product and API documentation with our developer friendly platform',
-		defaults: { name: 'readme' },
+		defaults: { name: 'Readme' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

@@ -361,7 +361,7 @@ export const versionDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Version Id",
+			"displayName": "Version ID",
 			"name": "versionId",
 			"required": true,
 			"description": "Semver version indentifier",
@@ -423,7 +423,7 @@ export const versionDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Version Id",
+			"displayName": "Version ID",
 			"name": "versionId",
 			"required": true,
 			"description": "Semver version indentifier",
@@ -485,7 +485,7 @@ export const versionDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Version Id",
+			"displayName": "Version ID",
 			"name": "versionId",
 			"required": true,
 			"description": "Semver version indentifier",

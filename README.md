@@ -53,16 +53,81 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Projects | Get metadata about the current project |
-| API Specification | Get api specification, Post upload api specification, Delete api specification, Put update api specification |
-| Categories | Get category, Get docs for category |
-| Changelog | Get changelogs, Post create changelog, Delete changelog, Get changelog, Put update changelog |
-| Custom Pages | Get custom pages, Post create custom page, Delete custom page, Get custom page, Put update custom page |
-| Docs | Post create doc, Post search docs, Delete doc, Get doc, Put update doc |
-| Errors | Get errors |
-| Version | Get versions, Post create version, Delete version, Get version, Put update version |
+<details>
+<summary><b>Projects</b> (1 operations)</summary>
+
+- Get metadata about the current project
+
+</details>
+
+<details>
+<summary><b>API Specification</b> (4 operations)</summary>
+
+- Get API Specification
+- Post Upload API Specification
+- Delete API Specification
+- Put Update API Specification
+
+</details>
+
+<details>
+<summary><b>Categories</b> (2 operations)</summary>
+
+- Get category
+- Get docs for category
+
+</details>
+
+<details>
+<summary><b>Changelog</b> (5 operations)</summary>
+
+- Get changelogs
+- Post Create changelog
+- Delete changelog
+- Get changelog
+- Put Update changelog
+
+</details>
+
+<details>
+<summary><b>Custom Pages</b> (5 operations)</summary>
+
+- Get custom pages
+- Post Create custom page
+- Delete custom page
+- Get custom page
+- Put Update custom page
+
+</details>
+
+<details>
+<summary><b>Docs</b> (5 operations)</summary>
+
+- Post Create doc
+- Post Search docs
+- Delete doc
+- Get doc
+- Put Update doc
+
+</details>
+
+<details>
+<summary><b>Errors</b> (1 operations)</summary>
+
+- Get errors
+
+</details>
+
+<details>
+<summary><b>Version</b> (5 operations)</summary>
+
+- Get versions
+- Post Create version
+- Delete version
+- Get version
+- Put Update version
+
+</details>
 
 ---
 

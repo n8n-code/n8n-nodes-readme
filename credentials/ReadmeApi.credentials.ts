@@ -8,7 +8,7 @@ import type {
 export class ReadmeApi implements ICredentialType {
 	name = 'N8nDevReadmeApi';
 
-	displayName = 'readme API';
+	displayName = 'Readme API';
 
 	icon: Icon = { light: 'file:../nodes/Readme/readme.svg', dark: 'file:../nodes/Readme/readme.dark.svg' };
 
@@ -22,7 +22,7 @@ export class ReadmeApi implements ICredentialType {
 			default: 'https://dash.readme.io/api/v1',
 			required: true,
 			placeholder: 'https://dash.readme.io/api/v1',
-			description: 'The base URL of your readme API server',
+			description: 'The base URL of your Readme API server',
 		},
 		{
 			displayName: 'API Key',

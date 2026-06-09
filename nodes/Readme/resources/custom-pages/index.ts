@@ -241,7 +241,7 @@ export const customPagesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Html",
+			"displayName": "HTML",
 			"name": "html",
 			"type": "string",
 			"default": "",
@@ -553,7 +553,7 @@ export const customPagesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Html",
+			"displayName": "HTML",
 			"name": "html",
 			"type": "string",
 			"default": "",

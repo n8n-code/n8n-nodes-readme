@@ -289,7 +289,7 @@ export const apiSpecificationDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "ID of the API specification. The unique ID for each API can be found by navigating to your **API Definitions** page.",
@@ -351,7 +351,7 @@ export const apiSpecificationDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"description": "ID of the API specification. The unique ID for each API can be found by navigating to your **API Definitions** page.",
